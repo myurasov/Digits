@@ -1,3 +1,5 @@
 *.csv
 .DS_Store
 /.ipynb_checkpoints
+/TF-Deep-Copy1.ipynb
+/TF-Deep-Copy2.ipynb
